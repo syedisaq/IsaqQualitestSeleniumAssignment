@@ -1,2 +1,1 @@
-# IsaqQualitestSeleniumAssignment
-IsaqQualitestSeleniumAssignment
+# Isaqdemoproject
