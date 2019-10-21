@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="phpTravels">
+
+<test name="Homepage">
+ 	<classes>
+ 		<class name="seleniumPages.Page_Homepage" />
+	</classes>
+ </test>
+ 
+ <test name="Register">
+ 	<classes>
+ 		<class name="seleniumPages.Page_Registerpage" />
+ 	</classes>
+ </test>	
+ 
+  <test name="Login">	
+ 	<classes>
+ 		<class name="seleniumPages.Page_Loginpage" />
+ 	</classes>
+ </test>	
+ 
+ <test name="Search">
+ 	<classes>	
+ 		<class name="seleniumPages.Page_GuestSearch" />
+ </classes>
+ </test>
+ 
+</suite>
